@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"go-test-practice/calc"
 	"go-test-practice/hello"
 )
 
